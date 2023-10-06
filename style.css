@@ -39,3 +39,8 @@ ul{
     margin-inline: auto;
     overflow: hidden;
 }
+nav
+{
+    background-color: #f3faff;
+    box-shadow: 0 0 4px ;    
+}
